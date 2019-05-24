@@ -1,0 +1,15 @@
+{
+  "name": "w1d5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "creating-and-exporting-modules.js",
+  "scripts": {
+    "chalk": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
